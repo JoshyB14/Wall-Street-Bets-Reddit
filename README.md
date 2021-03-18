@@ -10,4 +10,4 @@ For more information see [this Bloomberg article](https://www.bloomberg.com/news
 
 And [this blog post](https://www.wallstreetbets.shop/blogs/news/dissecting-the-unique-lingo-and-terminology-used-in-the-subreddit-r-wallstreetbets) from the WSB offical merch shop on terms/ emojis used on the sub-reddit.
 
-<img align="center" alt="GIF" src="https://github.com/JoshyB14/Wall-Street-Bets-Reddit/blob/main/giphy.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/JoshyB14/Wall-Street-Bets-Reddit/blob/main/images/giphy.gif" width="500" height="320" />
